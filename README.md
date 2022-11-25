@@ -1,2 +1,2 @@
 # Machine-Learning-Project
-<p>starting to do machine learning and its project</p>
+<p>start to do machine learning and its project</p>
